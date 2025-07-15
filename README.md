@@ -1,4 +1,4 @@
-# Discord Book Tracker Bot 📚
+# Discord Book Tracker Bot 📚 (IN PROGRESS)
 
 A simple Discord bot that helps users track their reading progress
 
