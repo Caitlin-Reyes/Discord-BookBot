@@ -4,9 +4,9 @@ A simple Discord bot that helps users track their reading progress
 
 ## Features
 - `!newbook`: Add a book by title, author, and total pages
-- `!update`: Update your current page
-- `!progress`: Show your progress bar
-- `!books`: List your tracked books
+- `!update`: Update your current page (coming soon)
+- `!progress`: Show your progress bar (coming soon)
+- `!books`: List your tracked books (coming soon)
 - `!leaderboard`: (coming soon)
 
 ## Setup
